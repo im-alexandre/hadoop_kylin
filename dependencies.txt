@@ -1,0 +1,11 @@
+python3-devel
+gcc gcc-c++
+postgresql postgresql-server
+wget
+jdk1.8.0_261
+hadoop==2.10
+hbase==1.6
+kafka==1.1.1 (scala 2.11)
+hive==1.2.2
+kylin==2.6.6(hbase1.x hadoop 2)
+spark==2.3.2
