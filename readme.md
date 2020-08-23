@@ -92,7 +92,7 @@ $ nohup hive --service hiveserver2 &
 $ kylin.sh start
 ```
 
-### Para iniciar o cluster:
+### Para parar o cluster:
 ```sh
 $ kylin.sh stop
 $ stop-hbase 
