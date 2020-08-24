@@ -81,7 +81,7 @@ hdfs dfs -put pima-indians-diabetes.data.csv "datasets/diabetes.csv"
 ```sh
 $ pyspark
 ```
-:point_right: Clique no link iniciado com 127.0.0.1
+:point_right: Clique no link iniciado com 127.0.0.1  
 :point_right: Execute o Notebook "hello-spark.ipynb"
 
 ### Para iniciar o cluster:
