@@ -87,6 +87,8 @@ $ pyspark
 ### Para iniciar o cluster:
 ```sh
 $ start-dfs.sh && start-yarn.sh
+###### INICIAR O SERVIDOR DO MAP REDUCE!!!!!!
+$ mr-jobhistory-daemon.sh start historyserver --config $HADOOP_CONF_DIR
 $ start-hbase.sh
 $ nohup hive --service hiveserver2 &
 $ kylin.sh start
