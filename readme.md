@@ -1,10 +1,10 @@
 # Instalação do cluster Single Node
 
 ## 1) IMPORTANTE
----
+
 :point_right: Foi testado apenas no CentOS 7 com ac configuração padrão (minimal)  
 :point_right: Utilizar o usuário "hadoop" com permissão de sudo
----
+
 Redirecionamento de portas (Máquinas virtuais)  
 hadoop              -   9870  
 kylin               -   7070  
