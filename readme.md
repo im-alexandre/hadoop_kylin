@@ -6,7 +6,7 @@
 :point_right: Utilizar o usuário "hadoop" com permissão de sudo
 
 Redirecionamento de portas (Máquinas virtuais)  
-hadoop              -   9870  
+hadoop              -   50070
 kylin               -   7070  
 pyspark(Notebook)   -   8899  
 ssh                 -   2222  
