@@ -6,13 +6,13 @@
 :point_right: Utilizar o usuário "hadoop" com permissão de sudo
 
 Redirecionamento de portas (Máquinas virtuais)  
-hadoop              -   50070
+hadoop              -   50070  
 kylin               -   7070  
 pyspark(Notebook)   -   8899  
 ssh                 -   2222  
 yarn                -   8088  
----
----
+
+
 
 ### 2) Copiar a pasta com os scripts e arquivos de dependências para a máquina host
 ```sh
